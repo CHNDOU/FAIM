@@ -1,0 +1,13 @@
+Legal Notices about FAIM
+
+FAIM may be copied and distributed freely. However, no commercial use may be made of the FAIM and its associated files, and any derivative works without a written license from Dr. DOU Yanxin (douyanxinch@163.com).All Rights Reserved. 
+  
+FAIM Research Software Disclaimer:
+
+As a research software, this program is provided free of charge. FAIM does not warrant that the functions contained in this program will meet the user's requirements or that the operation of this program will be uninterrupted or error-free. Acceptance and use of this program constitutes the user's understanding that he/she will have no recourse to FAIM for any actual or consequential damages, including, but not limited to, lost profits or savings, arising out of the use or inability to use this program. Even if the user informs FAIM of the possibility of such damages, FAIM expects the user of this program to accept the risk of any harm arising out of the use of this program, or the user shall not attempt to use this program for any purpose.
+
+User agreement:
+By acceptance and use of FAIM the user agrees to the following:
+1. This program is provided for the user's personal, non-commercial,  research use and the user is granted permission to copy this program to the extent reasonably required for such use.
+2. The user understands and agrees that this program and its associated files, and any derivative works, are to be used solely for research uses and are not to be sold, distributed to a commercial organization, or be commercially exploited in any manner.
+3. The author of this program do not guarantee the accuracy and/or usefulness of the results achieved with this program. All results is the responsibility of the user. 
